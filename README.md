@@ -27,9 +27,24 @@ An enterprise management suite typically includes a range of integrated applicat
 
 1. Customer Relationship Management (CRM):
 Manages customer data, interactions, and relationships.
-Includes tools for sales management, customer support, and marketing automation.
+Includes tools for sales management, customer support, and marketing automation. Gives  sales, marketing, commerce, field service, and customer service teams immediate visibility into and access to everything crucial to developing, improving, and retaining customer relationships.
 
-Examples: Salesforce, Microsoft Dynamics CRM, HubSpot CRM.
+
+Examples: Salesforce, Microsoft Dynamics CRM, HubSpot CRM. 
+
+Build: account for each customer, account for each provider, product sales data with account number and time stamp. Need identification numbers for products and services, stage of funnel.
+
+summary tables and plots for insight. Time lines for conversions. 
+System for customer follow-up whether it be with customer or work colleagues.
+
+Customer feedback process.
+live chat. 
+alerts
+Hard code metrics for KPIs (Include citations)
+Alerts for workers when customer follow up required. 
+Costomer service flow should include email, chat, phone with the direct worker and the manager (to guarentee nobody falls through the cracks).
+
+
 
 2. Enterprise Resource Planning (ERP):
 Integrates core business processes such as finance, HR, procurement, supply chain, and manufacturing.
